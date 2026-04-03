@@ -17,7 +17,7 @@ This repository contains my academic work and practical implementations develope
 ```
 Yugam_2410030687_IILM-GN/
 │
-├── Python/
+├── python/
 │   └── python_basics_and_data_structures.ipynb
 │
 └── README.md
