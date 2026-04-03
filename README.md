@@ -8,41 +8,59 @@
 
 ## 📌 About This Repository
 
-This repository represents my academic work and practical experience developed during my studies at IILM Greater Noida. It highlights my problem-solving abilities, consistency in learning, and a hands-on approach to building a strong foundation in programming and development. The work reflects my growth, discipline, and commitment to continuously improving my technical skills.
+This repository contains my academic work and practical implementations developed during my studies at **IILM Greater Noida**. It reflects my learning journey in Python and problem-solving through hands-on practice and structured exercises.
 
 ---
 
 ## 📂 Repository Structure
 
+```
 Yugam_2410030687_IILM-GN/
 │
-├── python/
+├── Python/
 │   └── python_basics_and_data_structures.ipynb
 │
 └── README.md
+```
 
 ---
 
 ## 💻 Work Included
 
-* Practice-based implementation of programming concepts
-* Structured problem-solving exercises
-* Hands-on coding practice as part of academic learning
+* Python basics and fundamental concepts
+* Data structures practice
+* Problem-solving exercises
+* Hands-on lab work
 
 ---
 
-## 🚀 About Me
+## 🚀 Skills Demonstrated
 
-I am currently pursuing my studies at IILM Greater Noida, focusing on building strong technical and problem-solving skills. I am consistently working on improving my understanding through practical implementation and regular practice.
+* Programming in Python
+* Logical thinking & problem solving
+* Understanding of core programming concepts
+* Practical implementation skills
 
 ---
 
-## 📈 Note
+## 📈 Future Updates
 
-This repository will be updated regularly with new academic work, assignments, and practice as I continue learning.
+This repository will be regularly updated with:
+
+* New assignments
+* Practice problems
+* Additional projects
+
+---
+
+## 👨‍💻 About Me
+
+I am currently pursuing my studies at **IILM Greater Noida**, focusing on building strong technical and problem-solving skills. I am consistently improving through practical implementation and continuous learning.
 
 ---
 
 ## 🔗 Connect with Me
 
 * GitHub: https://github.com/yugam-sachdeva
+
+---
