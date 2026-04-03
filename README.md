@@ -1,4 +1,5 @@
 # Yugam Sachdeva | IILM Greater Noida
+
 ---
 
 ## 📌 About This Repository
@@ -12,8 +13,9 @@ This repository contains my academic work and practical implementations develope
 ```
 Yugam_2410030687_IILM-GN/
 │
-├── python/
-│   └── python_basics_and_data_structures.ipynb
+├── Python/
+│   ├── python_basics_and_data_structures.ipynb
+│   └── OOPS_Python.ipynb
 │
 └── README.md
 ```
@@ -24,6 +26,7 @@ Yugam_2410030687_IILM-GN/
 
 * Python basics and fundamental concepts
 * Data structures practice
+* Object-Oriented Programming (OOP) concepts
 * Problem-solving exercises
 * Hands-on lab work
 
@@ -34,6 +37,7 @@ Yugam_2410030687_IILM-GN/
 * Programming in Python
 * Logical thinking & problem solving
 * Understanding of core programming concepts
+* OOP concepts (Classes, Objects, Inheritance, Polymorphism)
 * Practical implementation skills
 
 ---
