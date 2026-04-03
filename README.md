@@ -1,9 +1,4 @@
 # Yugam Sachdeva | IILM Greater Noida
-
-![GitHub repo size](https://img.shields.io/github/repo-size/yugam-sachdeva/Yugam_2410030687_IILM-GN)
-![GitHub last commit](https://img.shields.io/github/last-commit/yugam-sachdeva/Yugam_2410030687_IILM-GN)
-![GitHub language](https://img.shields.io/github/languages/top/yugam-sachdeva/Yugam_2410030687_IILM-GN)
-
 ---
 
 ## 📌 About This Repository
