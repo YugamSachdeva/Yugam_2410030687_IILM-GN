@@ -4,7 +4,9 @@
 
 ## 📌 About This Repository
 
-This repository contains my academic work and practical implementations developed during my studies at **IILM Greater Noida**. It reflects my learning journey in Python and problem-solving through hands-on practice and structured exercises.
+This repository contains my academic work and practical implementations developed during my studies at **IILM Greater Noida**.
+
+It includes both Python programming and Design & Analysis of Algorithms (DAA) concepts, implemented through hands-on practice and structured lab work.
 
 ---
 
@@ -13,9 +15,19 @@ This repository contains my academic work and practical implementations develope
 ```
 Yugam_2410030687_IILM-GN/
 │
-├── Python/
+├── python/
 │   ├── python_basics_and_data_structures.ipynb
 │   └── OOPS_Python.ipynb
+│
+├── daa-lab-programs/
+│   ├── binary-search.c
+│   ├── merge-sort.c
+│   ├── quick-sort.c
+│   ├── max-min.c
+│   ├── power.c
+│   ├── fractional-knapsack.c
+│   ├── job-scheduling.c
+│   └── 01-knapsack.c
 │
 └── README.md
 ```
@@ -24,42 +36,42 @@ Yugam_2410030687_IILM-GN/
 
 ## 💻 Work Included
 
+### 🐍 Python
+
 * Python basics and fundamental concepts
-* Data structures practice
-* Object-Oriented Programming (OOP) concepts
-* Problem-solving exercises
-* Hands-on lab work
+* Data structures and problem solving
+* Object-Oriented Programming (OOP)
+* Practice notebooks
+
+### 📊 DAA (Design & Analysis of Algorithms)
+
+* Binary Search
+* Merge Sort
+* Quick Sort
+* Max-Min
+* Power (Divide & Conquer)
+* Fractional Knapsack
+* Job Scheduling
+* 0/1 Knapsack
 
 ---
 
 ## 🚀 Skills Demonstrated
 
-* Programming in Python
-* Logical thinking & problem solving
-* Understanding of core programming concepts
-* OOP concepts (Classes, Objects, Inheritance, Polymorphism)
-* Practical implementation skills
-
----
-
-## 📈 Future Updates
-
-This repository will be regularly updated with:
-
-* New assignments
-* Practice problems
-* Additional projects
+* Programming in Python and C
+* Strong problem-solving skills
+* Understanding of core algorithms
+* Data structures and algorithmic thinking
+* Code structuring and organization
 
 ---
 
 ## 👨‍💻 About Me
 
-I am currently pursuing my studies at **IILM Greater Noida**, focusing on building strong technical and problem-solving skills. I am consistently improving through practical implementation and continuous learning.
+I am currently pursuing my studies at **IILM Greater Noida**, focusing on building strong programming and problem-solving skills through continuous practice and real-world implementation.
 
 ---
 
 ## 🔗 Connect with Me
 
 * GitHub: https://github.com/yugam-sachdeva
-
----
